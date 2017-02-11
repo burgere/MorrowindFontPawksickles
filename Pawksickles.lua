@@ -12,6 +12,7 @@ LMP:Register( 'font', 'DejaVu Sans BoldOblique',    [[Pawksickles/fonts/dejavusa
 LMP:Register( 'font', 'DejaVu Sans Oblique',        [[Pawksickles/fonts/dejavusans-oblique.ttf]]        )
 LMP:Register( 'font', 'DejaVu Sans Mono',           [[Pawksickles/fonts/dejavusansmono.ttf]]            )
 LMP:Register( 'font', 'DejaVu Serif',               [[Pawksickles/fonts/dejavuserif.ttf]]               )
+LMP:Register( 'font', 'Planewalker',                [[Pawksickles/fonts/planewalker.otf]]               )
 
 function Pawksickles:OnLoaded( event, addon )
     if ( addon ~= kName ) then
